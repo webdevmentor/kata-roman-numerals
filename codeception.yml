@@ -1,0 +1,15 @@
+namespace: Kata
+support_namespace: Support
+suites:
+    unit:
+        path: Unit
+
+settings:
+    shuffle: true
+    lint: true
+paths:
+    tests: tests
+    output: tests/_output
+    support: tests/Support
+    data: tests/Support/Data
+     

@@ -1,0 +1,18 @@
+{
+    "require": {
+        "php": "8.2.*",
+        "codeception/codeception": "5.0.*",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kata\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kata\\Tests\\": "tests/"
+        }
+    }
+}
