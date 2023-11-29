@@ -1,8 +1,8 @@
-namespace: Kata
+namespace: Kata\Tests
 support_namespace: Support
 suites:
-    unit:
-        path: Unit
+    Unit:
+        path: unit
 
 settings:
     shuffle: true

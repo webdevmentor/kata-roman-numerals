@@ -12,7 +12,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Kata\\Tests\\": "tests/"
+            "Kata\\Tests\\Unit\\": "tests/unit"
         }
     }
 }
