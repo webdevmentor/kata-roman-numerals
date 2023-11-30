@@ -12,4 +12,3 @@ paths:
     output: tests/_output
     support: tests/Support
     data: tests/Support/Data
-     
