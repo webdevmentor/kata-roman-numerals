@@ -25,7 +25,7 @@ Run tests
 ---
 
 To run all unit tests use the following command in the Docker container:<br>
-`vendor/bin/codecept run unit`
+`vendor/bin/codecept run Unit`
 
 Definitions
 ---
