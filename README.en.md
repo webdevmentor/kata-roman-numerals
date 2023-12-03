@@ -1,18 +1,18 @@
 [KATA] Roman Numerals
 ===
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PHP](https://img.shields.io /badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 > Es gibt eine deutsche Version dieser [README](README.md)
 
-In this kata you will convert Roman numerals to Arabic and back again. This is not about number fonts, but about practicing the use of Test Driven Development (TDD). That's why the entire kata is implemented in TDD.
+In this kata you will convert Roman numerals to Arabic and back again. This is not about number fonts, but about practicing the use of Test Driven Development (TDD). That's why the entire kata is implemented in TDD. To do this, create a unit test and one or more classes for the implementation.
 
 The characters that we use in Western languages such as German and English originally come from the Arabic script. Before these were adopted, Roman numerals were widely used in Europe. You may know them as inscriptions on old buildings indicating the year of construction. Small example - 1970 in Roman numerals MCMLXX.
 
 **More information**:
 
-* [Roman numerals at Wikipedia](https://en.wikipedia.org/wiki/Roman_numerals)
-* [Arabic numerals at Wikipedia](https://en.wikipedia.org/wiki/Arabic_numerals)
+* [Roman numerals at Wikipedia](https://de.wikipedia.org/wiki/Römische_zahlschrift)
+* [Arabic numeral script at Wikipedia](https://de.wikipedia.org/wiki/Arabische_zahlschrift)
 
 Run locally
 ---
@@ -25,14 +25,14 @@ Run tests
 ---
 
 To run all unit tests use the following command in the Docker container:<br>
-`vendor/bin/codecept run Unit`
+`vendor/bin/codecept run unit`
 
 Definitions
 ---
 
 **TDD (Test Driven Development)**
 
-In TDD, a test is first written, which defines the scope of the implementation to be written next. This means you can work through every application, no matter how complicated, in small, stable steps. Unit tests are to be preferred because they are manageable and can be carried out quickly as a whole.
+In TDD, a test is written first, which defines the scope of the implementation to be written next. This means you can work through every application, no matter how complicated, in small, stable steps. Unit tests are to be preferred because they are manageable and can be carried out quickly.
 
 There are three simple rules in TDD:
 

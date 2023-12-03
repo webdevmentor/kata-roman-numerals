@@ -5,7 +5,7 @@
 
 > There is an english version of this [README](README.en.md)
 
-In dieser Kata wirst du römische Zahlen in arabische umwandeln und wieder zurück. Es geht hier nicht um Zahlschriften, sondern die Verwendung von Test Driven Development (TDD) zu üben. Deshalb wird die gesamte Kata in TDD umgesetzt.
+In dieser Kata wirst du römische Zahlen in arabische umwandeln und wieder zurück. Es geht hier nicht um Zahlschriften, sondern die Verwendung von Test Driven Development (TDD) zu üben. Deshalb wird die gesamte Kata in TDD umgesetzt. Erstelle hierzu einen Unittest und eine oder mehrere Klassen für die Implementierung.
 
 Die Schriftzeichen, welche wir in westlichen Sprachen wie Deutsch und Englisch verwenden, stammen ursprünglich aus der arabischen Schrift. Bevor diese übernommen wurden, waren römische Zahlzeichen weit verbreitet in Europa. Du kennst sie vielleicht als Inschrift an alten Bauten, wo damit das Jahr der Errichtung angegeben wird. Kleines Beispiel - 1970 in römischen Zahlen MCMLXX.
 
